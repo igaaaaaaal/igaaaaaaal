@@ -1,4 +1,4 @@
-# Hi there, I'm Igal Gumelar - igal [igaaaaaaal](https://minejapanindo.blogspot.com) 👋
+# Hi there, I'm Igal Gumelar 👋
 ## About me:
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript
