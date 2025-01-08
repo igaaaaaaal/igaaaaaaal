@@ -8,23 +8,20 @@
 - 📫 How to reach me: igal.oce@gmail.com
 
 ## Education:
-
 #### 1. [SDN Suradita](https://dapo.kemdikbud.go.id/sekolah/D9886150FE75470C40F2) | Sekolah Dasar | Suradita `2016-2020`
-
-#### 2. [SMPN 03 Cisauk](https://smpntigacisauk.sch.id/read/100/informasi-penerimaan-peserta-didik-baru-smp-negeri-3-cisauk-tahun-pelajaran-20212022) | Sekolah Menengah | Cisauk `2015-2016`
-   
+#### 2. [SMPN 03 Cisauk](https://smpntigacisauk.sch.id/read/100/informasi-penerimaan-peserta-didik-baru-smp-negeri-3-cisauk-tahun-pelajaran-20212022) | Sekolah Menengah | Cisauk `2015-2016` 
 #### 3. [SMKN 06 Pagedangan](https://smkn6-kabtangerang.sch.id/) | Teknik Sepeda Motor | Pagedangan `2019-2020`
    
 
 ## Work Experience:
-#### 1. [Ahas Terang Anugrah 2 Pamulang](https://teranganugerah.com/) | PKL | Pamulang `Dec'2017 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://kecamatancisauk.blogspot.com/p/desa-suradita.html) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [AHAS Terang Anugrah 2 Pamulang](https://teranganugerah.com/) | PKL | Pamulang `Dec'2017 - Now`
+   - Fixing the motorcycle according to the customer's damage
+   - RChanging Motorcycle Oil
+   - Cleaning cvt motorcycle 
+#### 2. [KPPS dan Pantarlih](https://kecamatancisauk.blogspot.com/p/desa-suradita.html) | Rekap Data | Suradita `2019-2019`
+   - Registering Residents
+   - Recap all completed data
+   - Vote on the results of votes that have been voted
 ---
 
 ### Languages and Tools:
