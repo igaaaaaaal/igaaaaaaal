@@ -9,19 +9,19 @@
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMK N 06 Pagedangan](https://smkn6-kabtangerang.sch.id/) | TBSM | Pagedangan `2019-2020`
-   - Chief of Rohkris
+#### 1. [SDN Suradita](https://dapo.kemdikbud.go.id/sekolah/D9886150FE75470C40F2) | Sekolah Dasar | Suradita `2016-2020`
+
+#### 2. [SMPN 03 Cisauk](https://smpntigacisauk.sch.id/read/100/informasi-penerimaan-peserta-didik-baru-smp-negeri-3-cisauk-tahun-pelajaran-20212022) | Sekolah Menengah | Cisauk `2015-2016`
+   
+#### 3. [SMKN 06 Pagedangan](https://smkn6-kabtangerang.sch.id/) | Teknik Sepeda Motor | Pagedangan `2019-2020`
+   
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
+#### 1. [Ahas Terang Anugrah 2 Pamulang](https://teranganugerah.com/) | PKL | Pamulang `Dec'2017 - Now`
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
+#### 2. [PLN UP2D Purwokerto](https://kecamatancisauk.blogspot.com/p/desa-suradita.html) | Student Intern | Purwokerto `2019-2019`
    - Manage to update CAD of distribution lines using AutoCAD
    - Manage to recap fault in distribution network
    - Research on Maintenance of 20 kV Cubicle in Pemalang
