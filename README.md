@@ -13,7 +13,7 @@
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
+ #### 2. [SMK N 06 Pagedangan](https://www.sman1kebumen.sch.id) | TBSM | Pagedangan `2019-2020`
    - Chief of Rohkris
 
 ## Work Experience:
