@@ -1,4 +1,4 @@
-# Hi there, I'm Igal Gumelar 👋
+# Hi, I'm Igal Gumelar! 👋
 - 🌍 I'm based in Indonesia
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript
@@ -8,7 +8,7 @@
 - 📫 How to reach me: igal.oce@gmail.com
 
 
-![](https://github-readme-stats.vercel.app/api?username=igaaaaaaal&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=igaaaaaaal&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
