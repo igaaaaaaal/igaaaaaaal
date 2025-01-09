@@ -41,8 +41,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/igalyuro#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/igalyuro#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/igal-gumelar#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/igal-gumelar#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/igal-gumelar-42b856198#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/igal-gumelar-42b856198#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/iniii_ikaaann#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/iniii_ikaaann#gh-dark-mode-only)
