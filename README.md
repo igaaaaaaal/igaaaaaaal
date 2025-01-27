@@ -31,7 +31,8 @@
 
 
 ## Certificate:
-#### 1. [Google Digital Garage](https://drive.google.com/file/d/1otD_Odib7CzKMGh5DdJ_CeRsdpQEI1rs/view?usp=drivesdk)
+#### 1. [Google Digital Garage](https://drive.google.com/file/d/1U3Z8ccZ027gNsgMu8f0VVnGWHhVuB9y-/view?usp=drivesdk) | `26 Nov 2019`
+#### 2. [Developing Skill as Mobile App Developer](https://drive.google.com/file/d/1otD_Odib7CzKMGh5DdJ_CeRsdpQEI1rs/view?usp=drivesdk) | `27 July 2019`
 
 ---
 # 💻 Skills:
