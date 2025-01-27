@@ -14,17 +14,17 @@
 
 
 ## Education:
-#### 1. [SDN Suradita](https://dapo.kemdikbud.go.id/sekolah/D9886150FE75470C40F2) | Sekolah Dasar | Suradita `2016-2020`
-#### 2. [SMPN 03 Cisauk](https://smpntigacisauk.sch.id/read/100/informasi-penerimaan-peserta-didik-baru-smp-negeri-3-cisauk-tahun-pelajaran-20212022) | Sekolah Menengah | Cisauk `2015-2016` 
-#### 3. [SMKN 06 Pagedangan](https://smkn6-kabtangerang.sch.id/) | Teknik Sepeda Motor | Pagedangan `2019-2020`
+#### 1. [SDN Suradita](https://dapo.kemdikbud.go.id/sekolah/D9886150FE75470C40F2) | Sekolah Dasar | Suradita `2012-2013`
+#### 2. [SMPN 03 Cisauk](https://smpntigacisauk.sch.id/read/100/informasi-penerimaan-peserta-didik-baru-smp-negeri-3-cisauk-tahun-pelajaran-20212022) | Sekolah Menengah Pertama | Cisauk `2015-2016` 
+#### 3. [SMKN 06 Pagedangan](https://smkn6-kabtangerang.sch.id/) | Sekolah Menengah Kejuruan | TBSM [ Teknik Bisnis Sepedah Motor ] `2019-2020`
    
 
 ## Work Experience:
-#### 1. [AHAS Terang Anugrah 2 Pamulang](https://teranganugerah.com/) | PKL | Pamulang `Dec'2017 - Now`
+#### 1. [AHAS Terang Anugrah 2 Pamulang](https://teranganugerah.com/) | PKL | Pamulang `2017`
    - Fixing the motorcycle according to the customer's damage
    - RChanging Motorcycle Oil
    - Cleaning cvt motorcycle 
-#### 2. [KPPS dan Pantarlih](https://kecamatancisauk.blogspot.com/p/desa-suradita.html) | Rekap Data | Suradita `2019-2019`
+#### 2. [KPPS dan Pantarlih](https://kecamatancisauk.blogspot.com/p/desa-suradita.html) | Rekap Data | Suradita `2024`
    - Registering Residents
    - Recap all completed data
    - Vote on the results of votes that have been voted
