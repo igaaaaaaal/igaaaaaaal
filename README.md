@@ -25,8 +25,11 @@
 
 
 ## Certificate:
-#### 1. [Google Digital Garage](https://drive.google.com/file/d/1U3Z8ccZ027gNsgMu8f0VVnGWHhVuB9y-/view?usp=drivesdk) | `26 Nov 2019`
-#### 2. [Developing Skill as Mobile App Developer](https://drive.google.com/file/d/1otD_Odib7CzKMGh5DdJ_CeRsdpQEI1rs/view?usp=drivesdk) | `27 July 2019`
+#### 1. [Google Digital Garage](https://drive.google.com/file/d/1U3Z8ccZ027gNsgMu8f0VVnGWHhVuB9y-/view?usp=sharing) | `26 Nov 2019`
+#### 2. [Developing Skill as Mobile App Developer](https://drive.google.com/file/d/1otD_Odib7CzKMGh5DdJ_CeRsdpQEI1rs/view?usp=sharing) | `27 July 2019`
+#### 3. [Front End Web Development](https://www.udemy.com/certificate/UC-WGIQN5BI/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) | `2 Nov 2019`
+#### 4. [Kampanye Literasi Keamanan Siber](https://drive.google.com/file/d/16b1BTLr2eVj6raHGNd8xC6x48PfGK6Jb/view?usp=sharing) | `9 Nov 2019`
+#### 5. [Full Stack Java Script](https://www.udemy.com/certificate/UC-6WJXL8CJ/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) | `2 Nov 2019`
 
 ---
 # 💻 Skills:
