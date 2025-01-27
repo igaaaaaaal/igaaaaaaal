@@ -2,9 +2,7 @@
 - 🌍 I'm based in Indonesia
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
 - 📫 How to reach me: igal.oce@gmail.com
 
 ## Education:
