@@ -7,12 +7,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: igal.oce@gmail.com
 
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=igaaaaaaal&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-
-
 ## Education:
 #### 1. [SDN Suradita](https://dapo.kemdikbud.go.id/sekolah/D9886150FE75470C40F2) | Sekolah Dasar | Suradita `2012-2013`
 #### 2. [SMPN 03 Cisauk](https://smpntigacisauk.sch.id/read/100/informasi-penerimaan-peserta-didik-baru-smp-negeri-3-cisauk-tahun-pelajaran-20212022) | Sekolah Menengah Pertama | Cisauk `2015-2016` 
